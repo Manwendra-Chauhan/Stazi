@@ -1,0 +1,37 @@
+.pricing{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 15%;
+    align-items: center;
+    
+}
+
+.price{
+    font-size: 30px;
+    color: 	#232b2b;
+    font-weight: 500;
+}
+
+.button_wrap{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.rent{
+    border: none;
+    border-radius: 10px;
+    background-color: #0d6efd;
+    padding: 10px;
+    color: #fff;
+    font-size: 15px;
+}
+
+
+.like{
+    color: #3cdfff;
+    background-color: #8aecff;
+    padding: 5px;
+    border-radius: 10px;
+}
